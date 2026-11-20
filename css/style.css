@@ -1,0 +1,13 @@
+h1 {
+    color: darkgreen;
+}
+
+p {
+    color: gray;
+    font-size: 18px;
+}
+
+button {
+    background-color: darkgreen;
+    color: white;
+}
